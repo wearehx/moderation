@@ -1,0 +1,28 @@
+{
+  "post": {
+    "id": "1717092465201938",
+    "level": 1,
+    "group": "1659221770989008",
+    "parent": "1717087778535740",
+    "from": "10203587120438656",
+    "fromName": "Anonymous",
+    "type": "comment",
+    "message": "Michael Bailey Why can't they? There's quite a few more stringent ways of moderating join requests, FB gives a lot of information about friends in the group, whether they were added by someone, what groups they're a member of already, how old the account is etc on a join request. It's pretty easy (if sometimes time consuming) to determine if a member request is relevant. Not perfect always, but you can build out a bit of a process. \nAnd yep, nothing wrong with deleting inappropriate threads after they've come and gone.",
+    "created": "2016-01-08T22:53:39.000Z",
+    "place": null,
+    "tags": [
+      {
+        "id": "10201279538307958",
+        "length": 14,
+        "name": "Michael Bailey",
+        "offset": 0,
+        "type": "user"
+      }
+    ],
+    "link": null,
+    "comments": [],
+    "isMod": false,
+    "command": null,
+    "version": "9429ba89fa6a41f0e9f8002cfcb61aeac6faec01"
+  }
+}
