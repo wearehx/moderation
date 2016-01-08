@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1717095461868305",
+    "level": 1,
+    "group": "1659221770989008",
+    "parent": "1717084641869387",
+    "from": "10153385491939685",
+    "fromName": "Anonymous",
+    "type": "comment",
+    "message": "Hackbot test",
+    "created": "2016-01-08T23:06:09.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": false,
+    "command": null,
+    "version": "463895b2c5e74ca31a1f399aec8401fc4dfd92a8"
+  }
+}
