@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1717116301866221",
+    "level": 1,
+    "group": "1659221770989008",
+    "parent": "1659221770989008_1717115928532925",
+    "from": "10156421133865691",
+    "fromName": "Anonymous",
+    "type": "comment",
+    "message": "/close Wrong kind of hacking",
+    "created": "2016-01-09T01:05:33.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": true,
+    "command": "close",
+    "version": "951e6b08c17f6ef66b765b299b150f8f43629ae2"
+  }
+}
