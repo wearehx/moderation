@@ -1,0 +1,28 @@
+{
+  "post": {
+    "id": "1717128078531710",
+    "level": 1,
+    "group": "1659221770989008",
+    "parent": "1717116301866221",
+    "from": "10206625156921004",
+    "fromName": "Anonymous",
+    "type": "comment",
+    "message": "Ian Carroll what about legally compromising computer devices?",
+    "created": "2016-01-09T02:12:05.000Z",
+    "place": null,
+    "tags": [
+      {
+        "id": "1703721839841382",
+        "length": 11,
+        "name": "Ian Carroll",
+        "offset": 0,
+        "type": "user"
+      }
+    ],
+    "link": null,
+    "comments": [],
+    "isMod": false,
+    "command": null,
+    "version": "d266829add6eb323cf6dd03b13c62bdb03c80cc8"
+  }
+}
