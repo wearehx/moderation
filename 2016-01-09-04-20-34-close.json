@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1717322601845591",
+    "level": 1,
+    "group": "1659221770989008",
+    "parent": "1659221770989008_1717244045186780",
+    "from": "1703721839841382",
+    "fromName": "Anonymous",
+    "type": "comment",
+    "message": "/close",
+    "created": "2016-01-09T16:20:26.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": true,
+    "command": "close",
+    "version": "f30824900a44d261ec11393bd6d9842a34a7c99f"
+  }
+}
