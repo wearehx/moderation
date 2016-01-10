@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1717747671803084",
+    "level": 1,
+    "group": "1659221770989008",
+    "parent": "1659221770989008_1717745145136670",
+    "from": "1703721839841382",
+    "fromName": "Anonymous",
+    "type": "comment",
+    "message": "/close This is not really on-topic with our Content Policy, sorry. (https://github.com/wearehx/policies/blob/content-policy/content-policy.md). \n\nIf you or anyone else thinks it should be, suggestions can be made at https://github.com/wearehx/policies/pull/2.",
+    "created": "2016-01-10T21:14:28.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": true,
+    "command": "close",
+    "version": "87fb31ed99529610dc15cb870a7b518b00c3464f"
+  }
+}
