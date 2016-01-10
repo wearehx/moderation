@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1717501271827724",
+    "level": 1,
+    "group": "1659221770989008",
+    "parent": "1659221770989008_1717244045186780",
+    "from": "10153065199476792",
+    "fromName": "Anonymous",
+    "type": "comment",
+    "message": "Delete the post and ban the user",
+    "created": "2016-01-10T05:00:05.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": false,
+    "command": null,
+    "version": "5d5bb6831e830ef3c4c99d62cd67ca276ed4f079"
+  }
+}
