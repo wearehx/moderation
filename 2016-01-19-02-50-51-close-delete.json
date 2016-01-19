@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1720634114847773",
+    "level": 1,
+    "group": "1659221770989008",
+    "parent": "1659221770989008_1720609291516922",
+    "from": "10206625156921004",
+    "fromName": "Anonymous",
+    "type": "comment",
+    "message": "/clothes",
+    "created": "2016-01-19T02:50:28.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": false,
+    "command": "clothes",
+    "version": "eae6988974602fe5a63cd17bcf92314998ef0620"
+  }
+}
