@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1738894166355101",
+    "level": 1,
+    "group": "1659221770989008",
+    "parent": "1659221770989008_1738509553060229",
+    "from": "1703721839841382",
+    "fromName": "Anonymous",
+    "type": "comment",
+    "message": "/close I don't really think this is a 'good post' per our content policy: https://github.com/wearehx/policies/blob/content-policy/content-policy.md",
+    "created": "2016-03-06T21:07:41.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": true,
+    "command": "close",
+    "version": "0b9494e25f13b2a01a4cdcb5f14853cdb5749275"
+  }
+}
