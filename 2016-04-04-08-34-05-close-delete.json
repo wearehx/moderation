@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1753655461545638",
+    "level": 1,
+    "group": "1659221770989008",
+    "parent": "1659221770989008_1753655271545657",
+    "from": "1104923389520713",
+    "fromName": "Anonymous",
+    "type": "comment",
+    "message": "The link doesn't work from the notification",
+    "created": "2016-04-04T08:33:21.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": false,
+    "command": null,
+    "version": "43164c9823a6bf60b9f5567fab3d40da8f3490d3"
+  }
+}
