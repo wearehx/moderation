@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1790118994565951",
+    "level": 1,
+    "group": "1659221770989008",
+    "parent": "1659221770989008_1790114244566426",
+    "from": "1703721839841382",
+    "fromName": "Anonymous",
+    "type": "comment",
+    "message": "/close (Gulshan is correct).",
+    "created": "2016-06-30T04:24:18.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": true,
+    "command": "close",
+    "version": "32db7e91509482a8bf71451eed8bbd92bbcb1f2f"
+  }
+}
